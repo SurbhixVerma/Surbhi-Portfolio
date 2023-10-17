@@ -115,7 +115,7 @@ const Banner = () => {
         variants={fadeIn('down',0.5)} 
         initial="hidden" 
         whileInView={'show'} 
-        className='flex-1 max-w-[320px] 
+        className='hidden flex-1 max-w-[320px] 
         lg:max-w-[482px] '
         >
           <img src={Image} alt="" style={imageStyle} />
