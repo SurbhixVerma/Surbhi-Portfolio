@@ -16,7 +16,7 @@ const services = [
   },
   {
     name: 'Python Developer',
-    description: 'data science, automation, web development, fully-fledged websites, web apps, games like Blackjack, Pong, and Snake, GUIs, automation with Selenium, Beautiful Soup, machine learning with Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib.',
+    description: 'data science, automation, web development, fully-fledged websites, web apps, games, GUIs, automation with Selenium, Beautiful Soup, machine learning with Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib.',
     
   },
   {

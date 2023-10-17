@@ -75,7 +75,7 @@ const Work = () => {
               </div>
               {/* title */}
               <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
-                <span className='text-3x1 text-white'>University of Michigan</span>
+                <span className='text-3x1 text-white'>Udemy</span>
               </div>
             </div>
             {/* image */}
@@ -90,11 +90,11 @@ const Work = () => {
               />
               {/* pretitle */}
               <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50'>
-                <span className='text-gradient'>Ethical Hacking</span>
+                <span className='text-gradient'>University of Michigan</span>
               </div>
               {/* title */}
               <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50'>
-                <span className='text-3x1 text-white'>Udemy</span>
+                <span className='text-3x1 text-white'>Ethical Hacking</span>
               </div>
             </div>
           </motion.div>

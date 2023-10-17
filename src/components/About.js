@@ -39,7 +39,7 @@ const About = () => {
           <h2 className='h2 text-gradient'>About Me</h2>
           <h3 className='h3' mb-6>I'm a Freelance Full-Stack Developer skilled in 
             HTML, CSS, UI/UX, BootStrap, JavaScript, React, Angular, 
-            Node.js, Python, Ruby, PHP, Java, MongoDB, Express.js, Django
+            Node.js, Python, Java, MongoDB, Express.js, Django
             </h3>
             {/*stats*/}
             <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
